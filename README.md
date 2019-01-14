@@ -3,7 +3,7 @@
 
 ## Installation
 
-This project requires **Python 2.7** and the following Python libraries installed:
+This project requires **Python 2.7 or 3+** and the following Python libraries installed:
 
 - [NumPy](http://www.numpy.org/)
 - [Pandas](http://pandas.pydata.org)
